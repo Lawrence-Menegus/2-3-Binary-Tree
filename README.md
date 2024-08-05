@@ -10,9 +10,9 @@
 ### Compile and Run the Program
 <p>To compile and run the program, follow these steps in your terminal:</p>
 <b>Compile the Program</b>:
-<pre><code>g++ -o twothree_tree twothree_tree.cpp</code></pre>
+<pre><code>g++ -o 2-3Tree.cpp</code></pre>
 <b>Run the Program</b>:
-<pre><code>./twothree_tree</code></pre>
+<pre><code>./2-3Tree</code></pre>
 
 ### Usage
 <p>1. <b>Node Insertion</b>:</p>
